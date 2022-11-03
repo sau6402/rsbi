@@ -8,28 +8,38 @@
 
 
 <url>
-  <loc>http://rsbi.in/</loc>
-  <lastmod>2022-10-25T03:47:50+00:00</lastmod>
+  <loc>https://rsbi.in/</loc>
+  <lastmod>2022-10-30T19:56:59+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://rsbi.in/index.html</loc>
-  <lastmod>2022-10-25T03:47:50+00:00</lastmod>
+  <loc>https://rsbi.in/index.html</loc>
+  <lastmod>2022-10-30T19:56:59+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://rsbi.in/blog.html</loc>
-  <lastmod>2022-10-25T03:47:50+00:00</lastmod>
+  <loc>https://rsbi.in/blog.html</loc>
+  <lastmod>2022-10-30T20:00:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://rsbi.in/about.html</loc>
-  <lastmod>2022-10-25T03:47:50+00:00</lastmod>
+  <loc>https://rsbi.in/about.html</loc>
+  <lastmod>2022-10-30T20:00:33+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://rsbi.in/refund-policy.html</loc>
-  <lastmod>2022-10-25T03:47:50+00:00</lastmod>
+  <loc>https://rsbi.in/privacy-policy.html</loc>
+  <lastmod>2022-10-30T20:00:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rsbi.in/tnc.html</loc>
+  <lastmod>2022-10-30T20:00:33+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://rsbi.in/refund-policy.html</loc>
+  <lastmod>2022-10-30T20:00:31+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
